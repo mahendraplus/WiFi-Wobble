@@ -1,4 +1,5 @@
 #!/bin/bash
+
 sudo apt update
 sudo apt install wget
 sudo apt install curl
