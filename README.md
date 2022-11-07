@@ -1,6 +1,6 @@
 <p align="center">
-  <img width="140" height="140" src="img2.jpg">
+  <img width="200" height="220" src="img.png">
 </p>
 
-<h1 align="center">Mahendra Mali (Max)</h1>
+<h1 align="center">WIFI WOBBLE V1.0.2</h1>
 <br>
